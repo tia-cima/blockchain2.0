@@ -36,6 +36,7 @@ transaction.
     - Maintains the blockchain and validates blocks.
     - Handles transactions and propagates them across the network.
     - Exposes REST endpoints for monitoring.
+    - Rewards the user after mining a block with 10 credits.
 
 #### REST Endpoints
 - **GET** `/api/mempool`
